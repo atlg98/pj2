@@ -1,0 +1,34 @@
+.jumbotron {
+  background: url("https://lh3.googleusercontent.com/proxy/WclQZKXBRTmmsK8_unA6IvmY1cSjn3MJ7pvKoxLu5xurNodiiypHjZV3J0rUwjYXmBA3tRJ6xiHtHzGHThFhVWx_gpAwAhznD20D4OUvV9lHuj6v00L_qqB6PHwM2IPuOJAdMBDwitHd8tOS0bxF76Til9E");
+  background-size: contain;
+  background-repeat: no-repeat;
+  padding-top: 10%;
+  min-height: 70vh;
+  background-attachment: fixed;
+  text-shadow: 1px 1px 1px black;
+  background-position: center;
+  background-color: #000;
+}
+
+.error {
+    color: red;
+    font-style: italic;
+}
+
+button a {
+  color: white !important;
+}
+
+.card-container {
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding : 10px;
+}
+
+body {
+  background: #eee;
+}
+
+/* dark mode */
+
